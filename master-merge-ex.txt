@@ -1,1 +1,2 @@
 Merging scenario--I n master branch
+Checking rebase scenario
