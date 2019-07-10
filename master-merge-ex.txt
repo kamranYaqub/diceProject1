@@ -1,3 +1,0 @@
-Merging scenario--I n master branch
-Checking rebase scenario
-checking stashing scenario
