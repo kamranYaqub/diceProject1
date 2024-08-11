@@ -3,12 +3,12 @@ agent any
 stages {
 stage('Build') {
 steps {
-echo 'Build ...'
+echo 'Build .'
 }
 }
 stage ('Test') {
 steps {
-echo 'Testing the DSL script'
+echo 'Testing the DSL script.'
 }
 }
 }
